@@ -1,6 +1,3 @@
-<?php
-
-
     $email = $_POST['cust_email'];
     $password = $_POST['cust_pass'];
 
@@ -95,5 +92,3 @@
     {
          echo '<script>swal("","Email and Password Doesnt Match","error");</script>';
     }
-
-?>

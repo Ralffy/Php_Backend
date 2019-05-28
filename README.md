@@ -1,3 +1,3 @@
 # Native Php sign-in backend code
 
-**This is a simple sign-in code with email verification**
+**This code shows log in backend code with email verification**

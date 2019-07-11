@@ -1,4 +1,0 @@
-$path = 'Name.txt';
-$file = file_get_contents($path, FILE_USE_INCLUDE_PATH);
-unlink($path) or die("Invalid");
-if(mysqli_num_rows($result) > 0) //to check any rows exists or not
